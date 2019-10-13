@@ -8,12 +8,12 @@ function Header() {
         <span className='navbar-toggle' id='js-navbar-toggle'>
           <i className='fas fa-bars'></i>
         </span>
-        <a href='#' className='logo'>
+        <a href='/' className='logo'>
           Daisushii
         </a>
         <ul className='main-nav' id='js-menu'>
           <li>
-            <a href='#' className='nav-links'>
+            <a href='/' className='nav-links'>
               Home
             </a>
           </li>

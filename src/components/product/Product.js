@@ -17,11 +17,13 @@ function ProductInformation() {
           <div className='product-img-container'>
             <img
               className='product-img'
-              src='https://images.japancentre.com/recipes/pics/18/main/makisushi.jpg?1557308201'
+              src='https://i0.pngocean.com/files/157/709/249/california-roll-makizushi-gimbap-sashimi-sushi-sushi.jpg'
               alt=''></img>
           </div>
         </div>
-        <div className='column'>Some Text in Column Two</div>
+        <div className='column'>
+          <h3>California Roll</h3>
+        </div>
       </div>
     </div>
   );
